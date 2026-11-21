@@ -41,3 +41,7 @@ My learning includes **Linux I/O redirection for DevOps**, **Git and GitHub**, a
 ## Beyond code
 
 I've also completed training in **Design Thinking** and **Explore Entrepreneurship** through the Dunin-Deshpande Queen's Innovation Centre, as well as **Working on a Cross-Functional Team** through LinkedIn Learning.
+
+## Community involvement
+
+I volunteered at the **International AIDS Society's IAS 2025 conference in Rwanda** in July 2025, supporting program coordination and delegate registration.
