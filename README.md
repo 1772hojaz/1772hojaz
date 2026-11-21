@@ -33,3 +33,7 @@ My public repositories include work with:
 | [Custom Linux commands](https://github.com/1772hojaz/customised-commands_for_linux-_enviroments) | Linux command practice |
 
 [Browse all my repositories](https://github.com/1772hojaz?tab=repositories).
+
+## Technical learning
+
+My learning includes **Linux I/O redirection for DevOps**, **Git and GitHub**, and **coding for the web**, supported by courses from Coursera, LinkedIn Learning, and FutureLearn.
