@@ -23,3 +23,13 @@ My public repositories include work with:
 - **Python** — higher-level programming exercises and scripting.
 - **Shell and Linux** — shell basics and custom Linux commands.
 - **Git and GitHub** — version control and collaborative development practice.
+
+## Explore my repositories
+
+| Repository | Focus |
+| --- | --- |
+| [Higher-level programming](https://github.com/1772hojaz/alu-higher_level_programming) | Python programming exercises |
+| [Shell basics](https://github.com/1772hojaz/alu-shell) | Working with the shell |
+| [Custom Linux commands](https://github.com/1772hojaz/customised-commands_for_linux-_enviroments) | Linux command practice |
+
+[Browse all my repositories](https://github.com/1772hojaz?tab=repositories).
