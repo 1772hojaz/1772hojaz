@@ -37,3 +37,7 @@ My public repositories include work with:
 ## Technical learning
 
 My learning includes **Linux I/O redirection for DevOps**, **Git and GitHub**, and **coding for the web**, supported by courses from Coursera, LinkedIn Learning, and FutureLearn.
+
+## Beyond code
+
+I've also completed training in **Design Thinking** and **Explore Entrepreneurship** through the Dunin-Deshpande Queen's Innovation Centre, as well as **Working on a Cross-Functional Team** through LinkedIn Learning.
