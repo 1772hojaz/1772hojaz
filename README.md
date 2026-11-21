@@ -45,3 +45,10 @@ I've also completed training in **Design Thinking** and **Explore Entrepreneursh
 ## Community involvement
 
 I volunteered at the **International AIDS Society's IAS 2025 conference in Rwanda** in July 2025, supporting program coordination and delegate registration.
+
+## Connect with me
+
+- [LinkedIn](https://rw.linkedin.com/in/humphrey-nyahoja-ab9a5a1b5)
+- [GitHub](https://github.com/1772hojaz)
+
+<!-- Biography, education, training, and volunteering are based on publicly visible LinkedIn information. Repository links and programming topics are based on the GitHub profile. -->
