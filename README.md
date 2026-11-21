@@ -9,3 +9,9 @@ My work here reflects my learning in programming, Linux, and software developmen
 ## Based in Kigali
 
 I'm based in Kigali, Rwanda, connecting my interest in technology with experiences in education and community service.
+
+## Education
+
+**The African Leadership University** | 2023–2026
+
+My LinkedIn profile lists my education at ALU, alongside training in technology, design thinking, and entrepreneurship.
