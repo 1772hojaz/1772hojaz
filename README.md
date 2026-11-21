@@ -15,3 +15,11 @@ I'm based in Kigali, Rwanda, connecting my interest in technology with experienc
 **The African Leadership University** | 2023–2026
 
 My LinkedIn profile lists my education at ALU, alongside training in technology, design thinking, and entrepreneurship.
+
+## Programming and tools
+
+My public repositories include work with:
+
+- **Python** — higher-level programming exercises and scripting.
+- **Shell and Linux** — shell basics and custom Linux commands.
+- **Git and GitHub** — version control and collaborative development practice.
